@@ -3,6 +3,6 @@ VSmart (compiler Version identification for Smart contract) is a tool that takes
 
 To facilitate interested researchers conduct researches on this and relevant topics, we now made public the datasets we consturcted and VSmart’s source code.
 
-The datasets consists of the collected raw information pages of the verified smart contracts on Etherscan, the wild smart contracts deployed on Ethereum blockchain, as well as our pre-processed files storing their bytecodes and labels. They are accessbile and can be downloaded from the GoogleDrive: https://drive.google.com/file/d/1q8-4b7iGlnWM_N4sOMpdHlg6Ga8lQ1pu/view?usp=sharing 
+The datasets consists of the collected raw information pages of the verified smart contracts on Etherscan, the wild smart contracts deployed on Ethereum blockchain, as well as our pre-processed files storing their bytecodes and labels. They are accessbile and can be downloaded from: https://pan.baidu.com/s/17ijVwj0Z2XV0dEQkSonlrQ (Fetch Code: tk5s). 
 
 The source code of our implementation are accessbile on github: https://github.com/zztian007/VSmart 
